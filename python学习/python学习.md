@@ -7,6 +7,7 @@ seq = ['one', 'two', 'three']
 for i, element in enumerate(seq): 
        print i, element
 0 one
+
 1 two
 2 three
 ```
